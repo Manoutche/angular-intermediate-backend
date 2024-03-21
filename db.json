@@ -52,6 +52,15 @@
       "createdDate": "new Date()",
       "snaps": 104,
       "location": "Burger king"
+    },
+    {
+      "title": "Angular learning",
+      "description": "Angular is a popular TypeScript-based open-source web application framework created by Google.",
+      "imageUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/angular.png",
+      "location": null,
+      "createdDate": "2024-03-21T11:47:17.269Z",
+      "id": 7,
+      "snaps": 1
     }
   ]
 }
